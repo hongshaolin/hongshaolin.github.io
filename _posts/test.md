@@ -1,0 +1,21 @@
+---
+layout: docs
+title: test docs
+---
+
+##test posts
+
+hongmatoimac:sites HSL$ sudo gem install jekyll
+Password:
+Successfully installed liquid-2.5.0
+Fetching: fast-stemmer-1.0.2.gem (100%)
+Building native extensions.  This could take a while...
+ERROR:  Error installing jekyll:
+	ERROR: Failed to build gem native extension.
+
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby extconf.rb
+mkmf.rb can't find header files for ruby at /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/ruby.h
+
+
+Gem files will remain installed in /Library/Ruby/Gems/1.8/gems/fast-stemmer-1.0.2 for inspection.
+Results logged to /Library/Ruby/Gems/1.8/gems/fast-stemmer-1.0.2/ext/gem_make.out
