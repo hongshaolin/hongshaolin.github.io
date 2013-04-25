@@ -4,6 +4,6 @@ lsi:         false
 server_port: 4000
 pygments:    true
 markdown:    rdiscount
-permalink:   /:title
+permalink:   /:title.html
 rdiscount:
   extensions: [smart]
